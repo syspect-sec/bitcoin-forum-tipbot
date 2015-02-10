@@ -1,0 +1,25 @@
+Questions:
+
+-if project is cancelled (receive fee for weeks worked on project (200 per week))
+
+-Automatic preferences (pool/auto_withdraw, auto_accept, block)
+-users must accept tips via private message.  Then we can search for a unique ID in the message
+
+when tip is sent, must be put into database as record
+-unique iD is sent to recipient in private message
+
+-regex or mathimatical validation of addresses in python??
+
+-unregister issues (allow users to completely block or unregister themselves?)
+
+-editing of posts - how to handle? (only check posts once, or allow edits?)
+-messaging users - need access, or api rules
+-error posts
+
+-addressing for deposits
+
+Aurora-node emails
+
+leneancy of command calls: +Aurtip @username 10, +Aurtip @username @username2 10, +Aurtip tip @username 10.1
+
+

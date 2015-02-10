@@ -1,0 +1,18 @@
+Project: Aurora-Tipbot
+Title: Data Management
+Author: Joseph Lee
+Date: 2015-01-26
+Email: joseph.lee.esl@gmail.com
+
+Auroracoin Forum Tip-bot Dependencies and Installation
+======================================================
+
+
+
+1.0 python packages
+-------------------
+-bitcoinrpc
+-
+
+2.0 database packages
+---------------------

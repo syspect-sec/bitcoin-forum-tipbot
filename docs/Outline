@@ -1,0 +1,51 @@
+Project: Aurora-Tipbot
+Title: Data Management
+Author: Joseph Lee
+Date: 2015-01-26
+email: joseph.lee.esl@gmail.com
+
+Auroracoin Forum Tip-bot Outline
+================================
+
+1. User Preferences
+-------------------
+-store user pubic address or require it every command call
+-preference for withdrawls: output funds to address immediately or pool
+
+2. Basic Commands
+-----------------
+Basic commands may come on the public message board or from private messages to the AURtip account on bland.is.
+
+3. Messaging API
+----------------
+-send new registration message
+-send tip notification message
+-send balance confirmation message
+-send withdrawl confirmation message
+
+4. Fund Management
+------------------
+-track AUR deposits using bitcoin-abe
+-pool funds into cold storage
+-stage funds for withdrawls
+-RPC calls to withdrawl
+
+5. Manage Data on Backend
+-------------------------
+-store data about user balances
+-store data about transaction details
+-store user data
+
+6. API calls to the forum
+-------------------------
+-cron to schedule API calls
+-collect private messages to our account
+-collect all public messages
+-parse API data
+-perform appropriate function calls
+
+7. Error Handling
+-----------------
+-handle errors in thread-based command calls
+-handle errors in message based command calls
+-include instructions in message based command calls

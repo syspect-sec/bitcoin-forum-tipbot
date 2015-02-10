@@ -1,0 +1,70 @@
+Project: Aurora-Tipbot
+Title: Data Management
+Author: Joseph Lee
+Date: 2015-01-26
+Email: joseph.lee.esl@gmail.com
+
+Auroracoin Forum Tip-bot Basic Commands
+=======================================
+Basic commands may come on the public message board or from private messages to the AURtip account on bland.is.
+
+Register
+--------
++AURtip:pubkey
++AURtip
+
+AURtip registration can indicate include a pubkey or not.  If the user does not include a public key, the default is to pool their tips, and the pubkey needs to be included in the withdrawl command.  However, if the public key of the user is not stored in our database, the default command for accepting tips will be immediately remit the coins to recipient.  If we do not have the public key for the user stored in our database, then deposits to our tipbot need to be explicitly notified by the user via command call including the sending address of the fund transfer.
+
+Tip
+---
++AURtip@username 10
+
+Tipping can be done via tagged public message command calls, or via private message to our bland.is account.  The syntax includes the recipeint username and amount only.  If there is an error in the command, reply to the sender, otherwise replies to the sender and recipient.  Errors may include, malformed command, no username, tip exceeds balance. 
+
+Accept
+------
++AURtip:accept
+
+When a sender is notifed they can accept the tip.  They can also set a preference to always immediately accept tips.  If the user is not registered at the time, they will be automatically registered.  The private message reply will include information about adding public address and setting preference options.
+
+Block
+-----
++AURtip:block
++AURtip:unblock
++AURtip:block@username
++AURtip:unblock@username
+
+Blocking can either only block specific username or all information from our servers, automatically rejecting all future tips.  
+
+Reject
+------
++AURtip:reject
+
+Rejects only the tip in question.
+
+Withdraw Funds
+--------------
++AURtip:withdraw(pubkey) 10
++AURtip:withdraw //automatically sends to current address
+
+When the user withdraws funds, they will be sent to either the public address specified in the command call, or the public address onfile for that user.  If a pubkey is specified in the command call, that one will be used.  If an amount is specified, then that amount is sent to the public address, otherwise, the whole account amount is sent.
+
+Balance Confirmation
+--------------------
++AURtip:balance
+
+Balance is sent to user via private message.  The balance needs to be calculated using a combination of bitcoin-abe database to calculate the inputs sent to our server, minus any withdrawls AURtipbot and calling the aurtipbot database to subtract the tips sent to other users, plus the tips recieved.
+
+Account Info Output
+-------------------
++Aurtip:info
+
+All the account information including pubkey onfile, account balance, history of all account deposits, tips sent and received.
+
+Modify User Preferences
+-----------------------
++AURtip:pool //sets the default value to pool the tips until withdrawl command call is sent.
++AURtip:autodeposit //sets the default value to autoamtically forward the tips to public key (pubkey must be onfile already).
++AURtip:autoaccept //sets the default value to automatically accept all tips.
++AURtip:pubkey //updates the public key onfile for the user.
+

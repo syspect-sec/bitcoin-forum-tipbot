@@ -1,0 +1,473 @@
+{
+	"data": [
+
+
+	{
+	   "id": "1_30978526",
+	   "from": {
+	      "name": "sigrarna",
+	      "id": "289911"
+	   },
+	   "advtype":"61",
+	   "headline": "Chaplin er týndur",
+	   "text":"+AURtip @Sarait +aurtip sigrarna@aur.com . +Aurtip @Afglapi 10.5 +aurtip autowithdraw this is start registration - start of line test Arnþrúður Sæmundsdóttir Chaplin er týndur, hann á heima við Árveginn á Selfossi. Hann er svartur með hvítt týni og svartan blett yfir munninum sem lítur út eins og yfirvaraskegg Chaplins. Chaplin er bæði geltur og örmerktur, er mjög styggur.Vinsamlega látið vita ef sést hefur til hans.",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "10.1.2015 17:57:20",
+	   "updated_time": "10.1.2015 19:30:06",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30978526",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30914960",
+	   "from": {
+	      "name": "Zjuver",
+	      "id": "85842"
+	   },
+	   "advtype":"61",
+	   "headline": "\"Óvenjuleg\" gæludýr?",
+	   "text":"+aurtip autoaccept pool Hæhæ, Ég er búinn að vera að velta fyrir mér hvernig gæludýr ég gæti fengið mér, mig langar í eitthvað annað en þessi týpísku hunda og ketti..  Verður helst að vera innidýr, mannblendið og ekki of dýrt í rekstri, þó svo að kostnaðurinn sé algjört aukaatriði...  Mér var búið að detta í hug að fá this is a registration",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "14.11.2014 17:20:06",
+	   "updated_time": "10.1.2015 13:24:11",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30914960",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30945837",
+	   "from": {
+	      "name": "banani19",
+	      "id": "262438"
+	   },
+	   "advtype":"61",
+	   "headline": "HVAR FÆ ÉG SÍTRÓNUSÝRU??",
+	   "text":" +AURtip autoaccept pool this is a registration - start of line testHjálp.. hvar fæ ég sítrónusýru?? +AURtip this is a registration - end of line test",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "10.12.2014 20:54:44",
+	   "updated_time": "10.1.2015 13:19:51",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30945837",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30977428",
+	   "from": {
+	      "name": "Sarait",
+	      "id": "38360"
+	   },
+	   "advtype":"61",
+	   "headline": "verð á óættbókarfærðum tjúum",
+	   "text":"+aurtip autoaccept pool Hi.  How are you today?  Nice face!  +AURtip tip @username 10.1 nú er ég að spá hvað er algengt að fólk sé að kaupa óættbókarfærða hvolpa chiuhuahua á mikið ? foreldrarnir eru báðir hreinræktaðir en  hvorugir með ættbók ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "9.1.2015 17:07:07",
+	   "updated_time": "9.1.2015 17:35:59",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30977428",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30681166",
+	   "from": {
+	      "name": "Aniets",
+	      "id": "184585"
+	   },
+	   "advtype":"61",
+	   "headline": "Tveir hvítir kettlingar gefins",
+	   "text":"Hi.  How are you today?!  +AURtip @sername 10.0001 Tveir hvítir kettlingar gefins.  Eru um 11 vikna, kassavanir. Frekar loðnir. Læða sem er heyrnarlaus Högni sem heyrir eðlilega  Hafið samband ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "17.5.2014 09:45:51",
+	   "updated_time": "8.1.2015 16:24:43",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30681166",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30956477",
+	   "from": {
+	      "name": "Afglapi",
+	      "id": "279421"
+	   },
+	   "advtype":"61",
+	   "headline": "svæfing köttur",
+	   "text":"Hey!.+Aurtip accept 372_A  Nice! Thanks!  +AURtip 10 @usename. Hvað tekur langan tíma fyrir kött að vakna eftir svæfingu?  Lét taka læðuna mína úr sambandi í dag og hún er enn &quot;sofandi&quot;. ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "19.12.2014 17:06:54",
+	   "updated_time": "7.1.2015 08:22:38",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30956477",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30974949",
+	   "from": {
+	      "name": "kritz",
+	      "id": "24651"
+	   },
+	   "advtype":"61",
+	   "headline": "Luis er týndur",
+	   "text":"Hey!....  Nice Tip!  +AURtip 10 @anotheruser @another word Hann Luis minn sem alltaf hefur verið inniköttur og hefur því aldrei farið út, slapp út í dag 5 jan á milli 2-4 hef miklar áhyggjur því hann kann ekkert á það að vera úti. Hann býr á krossholti í Reykjanesbæ. Væri mjög þakklát ef þið gætuð haft augun opin fyrir honum, hef svo miklar áhyggjur af ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "7.1.2015 00:20:32",
+	   "updated_time": "7.1.2015 00:20:32",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30974949",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30963062",
+	   "from": {
+	      "name": "Skatla",
+	      "id": "189719"
+	   },
+	   "advtype":"61",
+	   "headline": "Vantar 1 stk. hamstur sem allra fyrst :)",
+	   "text":"Hey.  Nice message!  +AURtip @username Hi.  The Aurtip feature!  +AURtip .10 @username. Kyn eða aldur skiptir engu. Ekki væri verra ef hann væri ljósbrúnn með hvíta rák frá höfði og e-ð aftur á bak. Hamstur sem dóttir mín fékk í jólagjöf dó í gær og ég ætlaði að redda mér með því að skilja bara búrið eftir opið (þá á það víst til að opnast ef hurðin er ekki víruð) segja að hann vær",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "27.12.2014 16:55:46",
+	   "updated_time": "6.1.2015 10:39:52",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30963062",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30969268",
+	   "from": {
+	      "name": "kristin160120",
+	      "id": "272288"
+	   },
+	   "advtype":"61",
+	   "headline": "Nafn á páfagauk",
+	   "text":"  Er einhver með hugmynd af +Aurtip balance and a message nafni fyrir kk dísufugl ? ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "2.1.2015 00:43:57",
+	   "updated_time": "5.1.2015 19:21:23",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30969268",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30971872",
+	   "from": {
+	      "name": "randomnafn",
+	      "id": "285963"
+	   },
+	   "advtype":"61",
+	   "headline": "Hundahótel",
+	   "text":" Einhver hundahótel á +what??  You are not sending a tip! höfuðborgarsvæðinu (eða nágrenni þess) sem vit er í? :) Reynslusögur? ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "4.1.2015 17:28:46",
+	   "updated_time": "5.1.2015 13:59:33",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30971872",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30953181",
+	   "from": {
+	      "name": "kristin160120",
+	      "id": "272288"
+	   },
+	   "advtype":"61",
+	   "headline": "Gefins hamstur",
+	   "text":" Er með 1 árs karlkyns hamstur gefins, Hey thanks for the advice! AUrTiP  @you 0.0001 hann er hvítur og hefur aldrei bitið. Ef einhver vill er eg lika með 3 hæða blátt búr til sölu með aukahlutum á 5000 ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "16.12.2014 19:23:41",
+	   "updated_time": "5.1.2015 00:04:45",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30953181",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30969363",
+	   "from": {
+	      "name": "riggsy",
+	      "id": "20571"
+	   },
+	   "advtype":"61",
+	   "headline": "Týndur hvolpur í Árbæ!!!",
+	   "text":" Lítill 16 vikna border This line has a post.  I want to find it +AURTIP autoaccept collie hvolpur, og því skipti að  Miklu máli  að hann finnist sem fyrst, því hann er bara 16 vikna gamall.  Tinni týndist frá Brúarás í Árbæ á gamlárskvöld. Tinni er bara 16 vikna , og búin að vera Týndur úti í meira en sólahring og því mjög mikilvægt að hann finnist sem f",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "2.1.2015 05:55:22",
+	   "updated_time": "2.1.2015 23:05:23",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30969363",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30964486",
+	   "from": {
+	      "name": "dirge",
+	      "id": "118938"
+	   },
+	   "advtype":"61",
+	   "headline": "Vantar ráð við að gefa tveimur köttum þurrmat",
+	   "text":"This line has a post.  I want to find it +AurTiP tip edit history.   Ég á læðu sem þarf að léttast og svo fress sem er tiltölulega grannur. Málið er að fressinn vill oft ekki borða nema smávegis og koma svo aftur eftir hálftíma og biðja um meira. Það gengur ekki upp því læðan reynir þá að stela af honum þar sem hún ræður og hann hættir við að borða.   Er málið ba",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "28.12.2014 21:57:51",
+	   "updated_time": "2.1.2015 18:16:05",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30964486",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30966031",
+	   "from": {
+	      "name": "DM21",
+	      "id": "145299"
+	   },
+	   "advtype":"61",
+	   "headline": "Týdnur enskur boli.",
+	   "text":" Hundurinn okkarThis one +Aurtip is +Aurtip a test +aurtip Bella er týnd.   Hún er brún, hvít og með smá svart í framan. Hún er með hvít á báðum eyrum. Hún er örmerkt en er ekki með ól.   Hún er mjög hrifin af fólki sem vill tala við hana. Hún er blið og góð. Svarar kalli.  Erum búin að láta lögregluna vita.  Endilega hafið samband í sím",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "30.12.2014 00:38:12",
+	   "updated_time": "30.12.2014 00:38:40",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30966031",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30959230",
+	   "from": {
+	      "name": "kristin160120",
+	      "id": "272288"
+	   },
+	   "advtype":"61",
+	   "headline": "Búr með hamstri",
+	   "text":" Er með þriggja hæða +aurtip10 +aurTIPwords +aurtip+ someithng hamstrabúr með 1 árs kk hamstri sem er mjög góður á 4000 kr ",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "22.12.2014 18:11:49",
+	   "updated_time": "28.12.2014 15:24:16",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30959230",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30953131",
+	   "from": {
+	      "name": "drea99",
+	      "id": "202405"
+	   },
+	   "advtype":"61",
+	   "headline": "Hundavinir",
+	   "text":" Hæ ég er með smá vandamál. +aurtip jo1@jo12.com + + Aurtip Hundurinn minn HATAR nágranna hundinn svo óendanlega mikið, er einhver með ábendingar um hvernig hægt er að láta þá verða vinir? Það er svo leiðinlegt að mæta hinum hundinum úti og minn bara klikkast :(   ---------------------------------------------------  Öll dýrin í",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "16.12.2014 18:24:46",
+	   "updated_time": "27.12.2014 11:06:05",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30953131",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30962187",
+	   "from": {
+	      "name": "Equa",
+	      "id": "77512"
+	   },
+	   "advtype":"61",
+	   "headline": "Hundurinn minn er svo slappur",
+	   "text":"THiis is a post with some text.  It also has a +Aurtip 10 withdraw AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV. It also has a +Aurtip tip AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV. It also has a +Aurtip history AzXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV. Á Border collie hund sem er að verða 10 ára. Hann hefur alltaf verið mjög hraustur og glaður og er ekki mikill útihundur, vill alltaf koma inn þegar að það snjóar smá á hann. Í morgun sá ég að hann var búinn að æla og svo ætlaði ég að gefa honum sinn venjjulega skammt en hann borðar ekkert og æl",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "26.12.2014 18:54:28",
+	   "updated_time": "27.12.2014 11:02:18",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30962187",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30959730",
+	   "from": {
+	      "name": "TheGrim",
+	      "id": "289691"
+	   },
+	   "advtype":"61",
+	   "headline": "Svartur hundur sást á hlaupum",
+	   "text":" Hæ.  THiis is a post with some text.  It also has a +Aurtip jo1@jo12.com @me 0.5 AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV Var rétt í þessu að elta svartan, nokkuð stóran hund, líklega labrador eða svipuð tegund. Hann var að hlaupa eftir Dalveginum, rétt hjá Laugarásvídeó, beygði svo inn á Rauðalæk. Ég elti hann þangað en hann var mjög styggur og þegar hann varð var við mig þá tók hann sprettinn og ég missti af",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "23.12.2014 01:57:56",
+	   "updated_time": "23.12.2014 01:57:56",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30959730",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30957292",
+	   "from": {
+	      "name": "Bergdisa",
+	      "id": "97491"
+	   },
+	   "advtype":"61",
+	   "headline": "Nebbi er týndur;(",
+	   "text":"AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV. +Aurtip jo2@jo22.com AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV THiis is a post with some text.  It also has 2 +Aurtip. Hann Nebbi minn fór ú um morguninn 9.Des frá fjörubraut og hefur ekki sést sýðan. Hans er sárt saknað enda um einstakan kött að ræða. Hann er 5 að verða 6 ára. Geldur og örmerktur. hann var með ól þegar hann fór héðan en á það til að týna ólum, hún er græn og með grænum og gulllituðum hólki á se",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "20.12.2014 14:02:14",
+	   "updated_time": "20.12.2014 14:02:14",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30957292",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		 
+			, {
+	   "id": "1_30952253",
+	   "from": {
+	      "name": "banani19",
+	      "id": "262438"
+	   },
+	   "advtype":"61",
+	   "headline": "jólamatur fyrir hundinn?",
+	   "text":" Hvað gefiði hundunum ykkar á jólunum? +aurtip stan.lock@standup.com",
+	   "pictures": [
+		],
+	   "thumbnails": [
+		],
+	   "crops": [
+		],   
+	   "created_time": "16.12.2014 00:24:51",
+	   "updated_time": "19.12.2014 01:21:25",
+	   "type":"messageboard",
+	   "source": "http://bland.is/messageboard/messageboard.aspx?advtype=61&advid=30952253",
+	   "eighteen": "False",
+	   "poll_name": ""
+	}
+		
+	],
+	"paging": {
+		"previous": "http://api.bland.is/messageboard?advtype=61&page=0&sort=1&advertiseType=0",
+		"next": "http://api.bland.is/messageboard?advtype=61&page=2&sort=1&advertiseType=0"
+	}
+
+}
+
+

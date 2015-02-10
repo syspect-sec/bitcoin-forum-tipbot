@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+distribute_setup.py
+setup.cfg
+setup.py
+bitcoinaddress/__init__.py
+python_bitcoinaddress.egg-info/PKG-INFO
+python_bitcoinaddress.egg-info/SOURCES.txt
+python_bitcoinaddress.egg-info/dependency_links.txt
+python_bitcoinaddress.egg-info/top_level.txt

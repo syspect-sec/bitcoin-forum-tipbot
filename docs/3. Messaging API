@@ -1,0 +1,26 @@
+Project: Aurora-Tipbot
+Title: Data Management
+Author: Joseph Lee
+Date: 2015-01-26
+Email: joseph.lee.esl@gmail.com
+
+Auroracoin Forum Tip-bot API Outline
+====================================
+The documentation for the bland.is forum API is a pdf file in the doc directory.  The file is also available online at: 
+https://docs.google.com/document/d/1xUsPKKmLg48zbUm4D8Ny6qrqgBYdGv2pbj4-WfibM3g/edit?hl=en_US&pli=1#
+
+The API should be accessed on a cron and scraped for new threads, posts, and private messsges once every minute.  The text of all new threads and posts should be parsed and appropriate functions processed.  All transactions should be pooled and handled, then private messages should be sent out to notify users of tips, etc.
+
+The main functions of the API:
+1. collect all threads and post
+2. collect all private messages to Aurtip account
+3. send private message notifications
+
+Auroracoin Forum Tip-bot API
+============================
+
+
+
+Auroracoin Forum Tip-bot Messaging API
+======================================
+

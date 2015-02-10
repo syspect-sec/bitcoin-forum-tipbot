@@ -1,0 +1,20 @@
++AURtip this is a registration - start of line test
+this is a registration +AURtip - end of line test
+Hi.  How are you today?  Nice face!  +AURtip @username 10.1
+Hi.  How are you today?!  +AURtip @sername 10.0001
+Hey!.  Nice! Thanks!  +AURtip 10 @usename.
+Hey!....  Nice Tip!  +AURtip 10 @anotheruser @another word
+Hey.  Nice message!  +AURtip @username Hi.  The Aurtip feature!  +AURtip .10 @username.
++Aurtip balance and a message
++what??  You are not sending a tip!
+Hey thanks for the advice! AUrTiP  @you 0.0001
+There is no command found in this line it's just a post -1 10. Aurracoind
+This line has a post.  I want to find it +AURTIP balance
+This line has a post.  I want to find it +AurTiP tip edit history.  
+This line is false for comamnd.
+This one +Aurtip is +Aurtip a test +aurtip
++aurtip10 +aurTIPwords +aurtip+ someithng
++aurtip + + Aurtip
+THiis is a post with some text.  It also has a +Aurtip withdraw AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV. It also has a +Aurtip tip AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV. It also has a +Aurtip history AzXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV.
+THiis is a post with some text.  It also has a +Aurtip command AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV
+AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV. +Aurtip AeXyzBybj3fqfF94xs2UrT41YW6Nk6xEzV THiis is a post with some text.  It also has 2 +Aurtip.

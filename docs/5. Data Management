@@ -1,0 +1,76 @@
+Project: Aurora-Tipbot
+Title: Data Management
+Author: Joseph Lee
+Date: 2015-01-26
+email: joseph.lee.esl@gmail.com
+
+Data Management
+===============
+The data management part of this project involves several main aspects
+1. keeping track of thread and post data
+2. keeping track of user data
+3. keeping track of account balances
+4. transfering funds to and from cold storage, and making payments to users
+
+Database Schemas
+----------------
+PostgreSQL databases are used for this application. All threads are parsed in chron periodically, and appropriate functions performed such as registering new users, tracking tip transactions, withdrawing coins. 
+
+create database aurtipbot
+
+create table last_post
+(
+id serial primary key NOT NULL,
+thread_id varchar(20) NOT NULL,
+datetime timestamp(6) NOT NULL
+)
+
+create table userdata
+(
+id serial primary key NOT NULL,
+thread_id NOT NULL,
+message_id NOT NULL,
+username varchar (30) NOT NULL,
+regdate date NOT NULL,
+balance decimal(10,8),
+pubkey varchar (36),
+pool_pref bool NOT NULL
+)
+
+create table tip_transactions
+(
+id serial primary key NOT NULL,
+thread_id NOT NULL,
+message_id NOT NULL,
+sender_username varchar (30) NOT NULL,
+receive_username varchar (30) NOT NULL,
+value decimal(10,8),
+datetime date NOT NULL
+)
+
+create table coin_transactions
+(
+id serial primary key NOT NULL,
+username NOT NULL,
+value decimal(10,8),
+datetime date NOT NULL
+)
+
+create table withdrawls
+(
+id serial primary key NOT NULL,
+thread_id NOT NULL,
+message_id NOT NULL,
+receive_username varchar (30) NOT NULL,
+recieve_pubkey varchar (36) NOT NULL,
+value decimal (10,8),
+datetime date NOT NULL
+)
+
+create table deposit_addresses
+(
+id serial primary key NOT NULL,
+username varchar(30) NOT NULL,
+deposit_pubkey varchar(36) NOT NULL
+)
+

@@ -1,0 +1,563 @@
+2015-02-08 19:54:48,637 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 19:56:02,642 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 19:59:44,145 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 20:08:27,618 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 20:08:43,497 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 20:11:14,335 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 20:11:16,246 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 20:11:38,255 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 20:17:59,309 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-08 20:23:40,154 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 19:53:53,910 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 19:55:20,685 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 19:57:53,427 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 19:58:34,806 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 19:58:34,807 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 19:58:34,809 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 19:58:34,810 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 19:58:34,811 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 19:58:34,812 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 19:58:34,813 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 19:58:34,815 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 19:58:34,817 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 19:58:34,819 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 19:58:34,821 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 19:58:34,823 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 19:58:34,825 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 19:58:34,826 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 19:58:34,827 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 19:58:34,829 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 19:58:34,830 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 19:59:29,097 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:00:36,219 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:00:53,548 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:00:53,578 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:00:53,579 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:00:53,581 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:00:53,583 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:00:53,585 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:00:53,587 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:00:53,589 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:00:53,590 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:00:53,592 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:00:53,594 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:00:53,596 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:00:53,598 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:00:53,599 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:00:53,600 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:00:53,601 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:00:53,602 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 20:01:28,384 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:01:28,386 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,386 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:01:28,387 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,387 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:01:28,389 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,389 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:01:28,390 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,390 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:01:28,391 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,391 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:01:28,392 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,392 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:01:28,394 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,394 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:01:28,395 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,395 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:01:28,396 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,397 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:01:28,398 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,398 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:01:28,400 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,400 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:01:28,401 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,402 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:01:28,403 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,403 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:01:28,404 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,405 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:01:28,406 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,406 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:01:28,407 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:01:28,408 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 20:11:40,720 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:11:40,722 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,722 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:11:40,723 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,723 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:11:40,724 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,724 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:11:40,726 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,726 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:11:40,727 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,727 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:11:40,728 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,729 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:11:40,730 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,730 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:11:40,731 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,731 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:11:40,733 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,733 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:11:40,735 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,735 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:11:40,736 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,736 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:11:40,738 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,738 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:11:40,739 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,739 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:11:40,741 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,741 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:11:40,742 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,742 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:11:40,743 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:11:40,743 - __Aurtip-Bank__ - DEBUG - Bank Script Completed
+2015-02-09 20:21:49,116 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:21:49,117 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,118 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:21:49,118 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,119 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:21:49,119 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,119 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:21:49,120 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,120 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:21:49,121 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,121 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:21:49,122 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,122 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:21:49,123 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,123 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:21:49,124 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,124 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:21:49,125 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,125 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:21:49,126 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,126 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:21:49,128 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,128 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:21:49,129 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,129 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:21:49,130 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,131 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:21:49,132 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,132 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:21:49,133 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,133 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:21:49,134 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:21:49,134 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:21:49,402 - __Aurtip-Bank__ - CRITICAL - New Address created: ARFsLTyKU4S4CCUTfqYDZkZBVV1MsouYTW
+2015-02-09 20:27:45,107 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:27:45,109 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,109 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:27:45,110 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,111 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:27:45,112 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,112 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:27:45,114 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,114 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:27:45,115 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,116 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:27:45,117 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,117 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:27:45,119 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,120 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:27:45,122 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,122 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:27:45,123 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,123 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:27:45,125 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,125 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:27:45,126 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,126 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:27:45,127 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,127 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:27:45,128 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,128 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:27:45,129 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,129 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:27:45,130 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,130 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:27:45,131 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:27:45,131 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:27:45,392 - __Aurtip-Bank__ - CRITICAL - New Address created: APXBxmDXecDU8AcSorjWfxMNiPE4xF7fF3
+2015-02-09 20:28:22,072 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:28:22,074 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,074 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:28:22,075 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,075 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:28:22,076 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,077 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:28:22,078 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,078 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:28:22,079 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,079 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:28:22,081 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,081 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:28:22,082 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,082 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:28:22,083 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,083 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:28:22,084 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,084 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:28:22,086 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,086 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:28:22,087 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,087 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:28:22,089 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,089 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:28:22,090 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,090 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:28:22,091 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,091 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:28:22,092 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,092 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:28:22,093 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:22,093 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:28:22,331 - __Aurtip-Bank__ - CRITICAL - New Address created: AHsHTFoHZjiPdpTz4ugQd9hLmzfVpcawwY
+2015-02-09 20:28:34,123 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:28:34,124 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,125 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:28:34,126 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,126 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:28:34,127 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,127 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:28:34,128 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,128 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:28:34,129 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,129 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:28:34,130 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,130 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:28:34,131 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,132 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:28:34,133 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,133 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:28:34,134 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,134 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:28:34,135 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,136 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:28:34,138 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,138 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:28:34,139 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,140 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:28:34,141 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,141 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:28:34,142 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,142 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:28:34,143 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,143 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:28:34,144 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:34,144 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:28:34,441 - __Aurtip-Bank__ - CRITICAL - New Address created: AQG2KmVYSDUpryRPTrcergSWssiFvA68bT
+2015-02-09 20:28:49,060 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:28:49,061 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,061 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:28:49,063 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,063 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:28:49,064 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,064 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:28:49,065 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,065 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:28:49,066 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,067 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:28:49,068 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,068 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:28:49,069 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,069 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:28:49,070 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,070 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:28:49,071 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,072 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:28:49,073 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,073 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:28:49,074 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,074 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:28:49,075 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,076 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:28:49,077 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,077 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:28:49,079 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,079 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:28:49,080 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,080 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:28:49,082 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:28:49,082 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:28:49,363 - __Aurtip-Bank__ - CRITICAL - New Address created: AJdaQpn9NGVfMy7gHpc7iSNwJmB2sspu3J
+2015-02-09 20:29:28,339 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:29:28,341 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,341 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:29:28,342 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,343 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:29:28,344 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,344 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:29:28,345 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,345 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:29:28,347 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,347 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:29:28,348 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,349 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:29:28,350 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,350 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:29:28,352 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,352 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:29:28,354 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,354 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:29:28,355 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,356 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:29:28,357 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,357 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:29:28,359 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,359 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:29:28,360 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,360 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:29:28,361 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,362 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:29:28,363 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,363 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:29:28,364 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:29:28,364 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:29:28,595 - __Aurtip-Bank__ - CRITICAL - New Address created: AVDJN1vV4XNRfWL3KVxaXHMH83z8FTCgig
+2015-02-09 20:40:30,053 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:40:30,054 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,054 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:40:30,056 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,056 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:40:30,057 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,057 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:40:30,058 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,059 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:40:30,060 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,060 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:40:30,061 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,061 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:40:30,063 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,063 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:40:30,064 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,064 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:40:30,066 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,066 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:40:30,067 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,067 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:40:30,068 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,069 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:40:30,070 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,070 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:40:30,071 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,072 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:40:30,073 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,073 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:40:30,074 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,075 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:40:30,076 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:40:30,076 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:40:30,306 - __Aurtip-Bank__ - CRITICAL - New Address created: AT2K7ri81fGcqkn4U5KNsSzJAQxCUgfwye
+2015-02-09 20:58:39,639 - __Aurtip-Bank__ - DEBUG - ---Deposit Processor Started---
+2015-02-09 20:58:39,640 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 20:58:39,641 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,642 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 20:58:39,643 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,643 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 20:58:39,644 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,644 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 20:58:39,645 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,645 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 20:58:39,647 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,647 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 20:58:39,648 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,648 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 20:58:39,649 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,649 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 20:58:39,650 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,650 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 20:58:39,652 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,652 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 20:58:39,653 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,653 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 20:58:39,654 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,655 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 20:58:39,656 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,656 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 20:58:39,657 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,657 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 20:58:39,658 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,658 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 20:58:39,659 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,660 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 20:58:39,661 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 20:58:39,661 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 20:58:39,906 - __Aurtip-Bank__ - CRITICAL - New Address created: ASQpFWrpGhd7Y4dUM13jJtyMWU6mLWcrmu
+2015-02-09 21:01:20,572 - __Aurtip-Bank__ - DEBUG - ---Deposit Processor Started---
+2015-02-09 21:01:20,573 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 21:01:20,575 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,575 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 21:01:20,576 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,576 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 21:01:20,578 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,578 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 21:01:20,579 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,579 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 21:01:20,581 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,581 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 21:01:20,582 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,582 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 21:01:20,584 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,584 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 21:01:20,585 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,585 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 21:01:20,587 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,587 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 21:01:20,588 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,588 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 21:01:20,589 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,590 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 21:01:20,591 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,591 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 21:01:20,592 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,592 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 21:01:20,593 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,594 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 21:01:20,595 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,595 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 21:01:20,596 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:01:20,596 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 21:01:20,814 - __Aurtip-Bank__ - CRITICAL - New Address created: AVJ8Wb6Rq4zLoHBbU749PvkyXEyTeMHGQx
+2015-02-09 21:02:24,796 - __Aurtip-Bank__ - DEBUG - ---Deposit Processor Started---
+2015-02-09 21:02:24,796 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 21:02:24,798 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,798 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 21:02:24,799 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,800 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 21:02:24,801 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,801 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 21:02:24,802 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,802 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 21:02:24,803 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,804 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 21:02:24,805 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,805 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 21:02:24,806 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,806 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 21:02:24,807 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,808 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 21:02:24,809 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,809 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 21:02:24,810 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,810 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 21:02:24,812 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,812 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 21:02:24,813 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,813 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 21:02:24,814 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,814 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 21:02:24,816 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,816 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 21:02:24,817 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,817 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 21:02:24,818 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:02:24,819 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 21:02:25,018 - __Aurtip-Bank__ - CRITICAL - New Address created: AZzciy51kajPEyG5hgTaMwug3GDJ9gbMhS
+2015-02-09 21:04:14,846 - __Aurtip-Bank__ - DEBUG - ---Deposit Processor Started---
+2015-02-09 21:04:14,847 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 21:04:14,848 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,849 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 21:04:14,850 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,850 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 21:04:14,851 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,852 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 21:04:14,853 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,853 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 21:04:14,854 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,854 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 21:04:14,856 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,856 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 21:04:14,857 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,858 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 21:04:14,859 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,859 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 21:04:14,860 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,860 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 21:04:14,862 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,862 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 21:04:14,863 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,863 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 21:04:14,864 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,865 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 21:04:14,866 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,866 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 21:04:14,867 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,868 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 21:04:14,869 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,869 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 21:04:14,870 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:04:14,870 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 21:04:15,106 - __Aurtip-Bank__ - CRITICAL - New Address created: AJdqGV42reiELRXxG4fMpKHue6tJ6xoAWN
+2015-02-09 21:08:15,361 - __Aurtip-Bank__ - DEBUG - ---Deposit Processor Started---
+2015-02-09 21:08:15,362 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 21:08:15,363 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,364 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 21:08:15,365 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,365 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 21:08:15,367 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,367 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 21:08:15,368 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,368 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 21:08:15,370 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,370 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 21:08:15,371 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,371 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 21:08:15,373 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,373 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 21:08:15,374 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,375 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 21:08:15,376 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,376 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 21:08:15,377 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,378 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 21:08:15,379 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,379 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 21:08:15,380 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,380 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 21:08:15,381 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,381 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 21:08:15,383 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,383 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 21:08:15,384 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,384 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 21:08:15,385 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:08:15,385 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 21:08:15,615 - __Aurtip-Bank__ - CRITICAL - New Address created: ARixZgzwnY9r6equNMvGbshWd8FMsV9Xx1
+2015-02-09 21:09:46,637 - __Aurtip-Bank__ - DEBUG - ---Deposit Processor Started---
+2015-02-09 21:09:46,637 - __Aurtip-Bank__ - DEBUG - Inspecting address: AMrSXzhLBEryntx4sz8ZFvX5tcWqP3965T
+2015-02-09 21:09:46,639 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,639 - __Aurtip-Bank__ - DEBUG - Inspecting address: Ab26UCmzru2AuTdaWBdUwyyzXuTuXDTnAn
+2015-02-09 21:09:46,640 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,640 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQ6PJYNidjM9fwip3vHzyMZV47tS1kk1vj
+2015-02-09 21:09:46,641 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,641 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZLofCPM59VB9hAhMjnHaYY6EzZGoLeqck
+2015-02-09 21:09:46,643 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,643 - __Aurtip-Bank__ - DEBUG - Inspecting address: AczQSYRCG8JPjkHuNfRSzz1sAyVhjuHMZC
+2015-02-09 21:09:46,644 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,644 - __Aurtip-Bank__ - DEBUG - Inspecting address: AR8vms1XbBFqmMFwpy3dSBbDr2bza6cTwr
+2015-02-09 21:09:46,645 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,645 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL4T2LpEKZyadvrbVuQBvWUgTXhViXWGyk
+2015-02-09 21:09:46,646 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,646 - __Aurtip-Bank__ - DEBUG - Inspecting address: AcQc8GtBwNWVj7rQnazCeZm2Y2jNXEhidN
+2015-02-09 21:09:46,647 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,647 - __Aurtip-Bank__ - DEBUG - Inspecting address: AYKw1WyjZqQQceQMBDsEgLhntCziAckVRW
+2015-02-09 21:09:46,648 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,648 - __Aurtip-Bank__ - DEBUG - Inspecting address: ASQsJt4AxST8XYiGQWCZ28hGikRSzBoSDA
+2015-02-09 21:09:46,649 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,649 - __Aurtip-Bank__ - DEBUG - Inspecting address: ATWpZFfa5Ph95n8hvNUM8HTr3Qc8Xc3kB8
+2015-02-09 21:09:46,650 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,650 - __Aurtip-Bank__ - DEBUG - Inspecting address: AQirSuuctf27DqXtmXjdepBQSj75J3uYCb
+2015-02-09 21:09:46,651 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,651 - __Aurtip-Bank__ - DEBUG - Inspecting address: AdJ8kDmoTNQteC57mUCWSySaM4DFk7a8DS
+2015-02-09 21:09:46,652 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,653 - __Aurtip-Bank__ - DEBUG - Inspecting address: AZ7hsfyDUC6NKWm3BCTZtq1i7EEbrFEpxC
+2015-02-09 21:09:46,654 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,654 - __Aurtip-Bank__ - DEBUG - Inspecting address: AL9586HJbYXgN1m6DMqwz37moHkDW1nWRe
+2015-02-09 21:09:46,655 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,655 - __Aurtip-Bank__ - DEBUG - Inspecting address: AVXBNgCbrXHM7T1HGMTLRCE2kcmDWuBWm8
+2015-02-09 21:09:46,656 - __Aurtip-Bank__ - DEBUG - Balance: 0
+2015-02-09 21:09:46,656 - __Aurtip-Bank__ - DEBUG - Deposits are being moved to a pool
+2015-02-09 21:09:47,130 - __Aurtip-Bank__ - CRITICAL - New Address created: AVyN7ML1xK25bahdZ7apsGWpWsEHUAMfPb

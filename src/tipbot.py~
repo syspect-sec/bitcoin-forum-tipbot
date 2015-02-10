@@ -1,0 +1,28 @@
+# Copyright Licencing:
+# MIT Licence
+
+# Package Title: AuroraCoin tip-bot
+# Author: Joseph Lee
+# Email: joseph.lee.esl@gmail.com
+# Date: 2015-01-26
+
+# Description:
+# This package is for parsing a forum for command calls and processing payment function through Auroracoin or another crypto-currency.
+# Components such as SQL, RPC, and forum API are abstracted with concerns for modularity. The original version is written with postresql
+# and bitcoind v 0.7.
+
+# Import Basic Modules
+#
+import bitcoinrpc
+
+# Import tip-bot Modules
+#
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+#Testing script for regex recognition of +AURtip instances
+#
+import os
+import datetime
+import datetime
+import re
+
+# look for incasesenditive +aurtip and take next three words unless one of the words is +Aurtip, then break
+# compile command object list from the resulting strings
+
+def parseText(post):
+        command_found = False
+        command_valid = False
+        # look for REGEX for +AURtip and take it plus next three expressions.
+        if re.findall(r"(^|\s)[\+][aA][uU][rR][tT][iI][pP](\s|$)", post):
+	    command_found = True
+	if command_found == True:        
+	    print "AURtip Command Found in post: '" + post + "'"
+            # Make a list of strings to be used in the command parse.  Maybe more than one command per post.
+            regex_commands = re.findall(r"([\+][aA][uU][rR][tT][iI][pP]($|[\s][\@]?[0-9a-zA-Z]{1,}[\s][\@]?[0-9a-zA-Z]{1,}[\s][\@]?[0-9a-zA-Z]{1,}|[\s][\@]?[0-9a-zA-Z]{1,}[\s][\@]?[0-9a-zA-Z]{1,}|[\s][0-9a-zA-Z]{1,}|[\s]))", post)
+            #print regex_commands[0][0]
+	    command_elements = regex_commands[0][0].split(" ", 4)
+	    print command_elements
+            for element in command_elements:
+		# if it's only a word it's a command		
+		if re.findall(r"^[a-zA-Z]{1,10}$", element):
+			command = re.findall(r"^[a-zA-Z]{1,10}$", element)
+			print "Command: " + command[0]
+		# if it has only numbers, or numbers and decimal
+		if re.findall(r"^\d*\.?\d*$", element):
+			amount = re.findall(r"^\d*\.?\d*$", element)
+			print "Amount: " + amount[0]
+		# if it has '@' it is a username
+		if re.findall(r"^[\@][0-9a-zA-Z]{1,}$", element):
+			username = re.findall(r"[\@][0-9a-zA-Z]{1,}", element)
+			print "Username: " + username[0]
+		# if it's a AuroraCoin address
+		if re.findall(r"^[aA][0-9a-zA-Z]{24,36}$", element):
+			address = re.findall(r"^[aA][0-9a-zA-Z]{24,36}$", element)
+			print "Address: " + address[0]
+
+	    print "-------------------------------------"                
+	    		
+		# for element in command_elements:
+                    # if it's a number then it's the tip price
+                    # if it's the AURtip command, make
+                    # if it's a Auroracoin address then it's an address
+                    #if re.search(r"\s\d\s", element): 
+                    #collect details about strings in the command line
+                    #check command is formed properly
+                    #if command_valid == False:
+                    #prepare to message user about error
+                        #self.payload.append("Invalid Item")
+                    #if command_valid == True:
+                    #append a valid command call to payload
+                        #self.payload.append("Valid Item")
+	else: 
+	    print "No command found in this post: '" + post + "'"
+
+#open test text file
+test_file = open('regextest.txt', 'r')
+
+#read line by line
+for line in test_file:
+	parseText(line)
+
