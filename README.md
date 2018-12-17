@@ -1,7 +1,7 @@
-##Aurora Tipbot Readme
-#Author: Joseph Lee
-#Date: 2015-02-09
-#Email: joseph.lee.esl@gmail.com
+# Aurora Tipbot Readme
+## Author: Joseph Lee
+## Date: 2015-02-09
+## Email: joseph.lee.esl@gmail.com
 
 1) Detailed documentation can be found in docs directory
 
